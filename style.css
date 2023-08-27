@@ -6,9 +6,19 @@
     border-radius: 20px;
 }
 
+#img-tb {
+    border: 30px;
+    border-width: 15px;
+    border-style: groove;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
 .image-row {
     display: flex;
     justify-content: space-evenly 30px;
+    margin-left: 50px;
+    flex-grow: inherit;
 }
 
 .tb1 {
