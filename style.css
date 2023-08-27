@@ -7,11 +7,20 @@
 }
 
 #img-tb {
-    border: 30px;
+    position: relative;
+    border: 10px;
     border-width: 15px;
     border-style: groove;
-    margin-left: 100px;
-    margin-top: 50px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+#food-txt {
+    position: absolute;
+    margin-left: 600px;
+    margin-right: 300px;
+    margin-top: 100px;
 }
 
 .image-row {
