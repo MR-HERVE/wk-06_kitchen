@@ -29,8 +29,8 @@
     border-width: 15px;
     border-style: groove;
     float: right;
-    margin-left: 50px;
-    margin-top: 500px;
+    margin-right: 50px;
+    margin-top: 600px;
 }
 
 #drinks-txt {
@@ -38,6 +38,7 @@
     margin-right: 600px;
     margin-left: 300px;
     margin-top: 700px;
+    text-align: right;
 }
 
 .image-row {
