@@ -41,6 +41,19 @@
     text-align: right;
 }
 
+#fd-jpg {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+#tble-jpg {
+    position: absolute;
+    top: 1980px;
+    left: 300px;
+    background-color: aliceblue;
+}
+
 .image-row {
     display: flex;
     justify-content: space-evenly 30px;
