@@ -6,7 +6,7 @@
     border-radius: 20px;
 }
 
-#img-tb {
+#img-tb1 {
     position: relative;
     border: 10px;
     border-width: 15px;
@@ -21,6 +21,23 @@
     margin-left: 600px;
     margin-right: 300px;
     margin-top: 100px;
+}
+
+#img-tb2 {
+    position: relative;
+    border: 10px;
+    border-width: 15px;
+    border-style: groove;
+    float: right;
+    margin-left: 50px;
+    margin-top: 500px;
+}
+
+#drinks-txt {
+    position: absolute;
+    margin-right: 600px;
+    margin-left: 300px;
+    margin-top: 700px;
 }
 
 .image-row {
