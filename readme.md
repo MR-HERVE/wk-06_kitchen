@@ -18,5 +18,15 @@
   How you can set up these to your machine:
 
    1. clone the repository to your machine(*gitbash* if *windows*)or(*terminal* if *linux/MacOS*)  
+
+   2. change to the working directory,this is where you want to put tour  work in.
+
+   3. Open in visual studio code.
+
+   ```
+   code .
+   ```
+
+   4. In the VS Code run in the browser by opening via live server.
    
-     
+    
