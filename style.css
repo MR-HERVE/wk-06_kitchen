@@ -84,3 +84,27 @@
 .txt2 {
     margin-right: 400px;
 }
+
+.selector {
+    position: relative;
+}
+
+.sele {
+    position: absolute;
+    top: 2850px;
+    left: 550px;
+}
+
+.hapy {
+    color: rgb(255, 98, 0);
+}
+
+.end {
+    background-color: rgb(255, 119, 0);
+    text-align: center;
+    color: #ffffff;
+}
+
+.logo {
+    color: #ffffff6a;
+}
