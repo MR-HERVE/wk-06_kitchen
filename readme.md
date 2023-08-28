@@ -28,5 +28,10 @@
    ```
 
    4. In the VS Code run in the browser by opening via live server.
-   
-    
+
+## Author 
+  This project was built and maintained by:
+
+  - IRAKIZA HERVE
+
+      
